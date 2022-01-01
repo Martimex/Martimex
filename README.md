@@ -45,7 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martimex&theme=dark" alt="martimex" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martimex&show_icons=true&theme=tokyonight&title_color=e28136&text_color=d6c943&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="martimex" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martimex&show_icons=true&theme=tokyonight&title_color=b880db&text_color=57a2c7&locale=en" alt="martimex" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martimex&show_icons=true&theme=tokyonight&title_color=e28136&text_color=d6c943&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="martimex" /></p>
