@@ -3,13 +3,17 @@
 
 - 🔭 I’m currently working on -> [Sudoku-World App](https://github.com/Martimex/sudoku)
 
-- 🌱 I’m currently learning -> **React and Node.js**
+- ✨ Check out my new app -> [Sudoku World](https://sudokuworld.onrender.com)
+
+- 🌱 I’m currently learning -> **Three.js**
 
 - 💬 Feel free to ask me about **anything :D**
 
 - 📫 How to reach me ***coming soon***
 
 - 🎯 2022 Main Goal -> **Contributing to open source**
+
+- 💡 Open for collabs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
