@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martimex</h1>
 <h3 align="center">A JavaScript frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on -> [Sudoku-World App](https://github.com/Martimex/sudoku)
+- 🔭 I’m currently working on -> [Memory Flash 2.0 version](https://github.com/Martimex/memory-game/tree/update)
 
 - ✨ Check out my new app -> [Sudoku World](https://sudokuworld.onrender.com)
 
