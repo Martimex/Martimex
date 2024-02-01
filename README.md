@@ -1,10 +1,20 @@
-<h1 align="center">Hello there 👋 I am Kamil</h1>
+<h1 align="center">Hello world 👋 I am Kamil</h1>
 
 ###
 
 <h3 align="center">A JavaScript developer from Poland</h3>
 
 ###
+
+<br>
+
+<div align="center">
+  <img height="180" src="https://avatars.githubusercontent.com/u/76244675?s=400&u=2d7f35231fa3b3afca81175f7ae23390a01ab75c&v=4"  />
+</div>
+
+###
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="35" alt="hackerrank logo"  />
@@ -29,7 +39,7 @@
 
 ###
 
-<p align="left">✨ Would love to collaborate on some projects with other developers! If you would like to collab with me, feel free to contact me by e-mail.</p>
+<p align="left">✨ Would love to collab on some projects with other developers! If you would like to team up, feel free to contact me by e-mail.</p>
 
 ###
 
@@ -41,27 +51,24 @@
 
 ###
 
-<p align="left">🌐 Wordpress site is still under development...</p>
+<p align="left">🚀 Check out my personal projects : </p>
+
+[WT Weather](https://wtweather.cyclic.app) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
+[Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
+[Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
+[Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
 
 ###
 
-<p align="left">🚀 Check out my personal projects :<br><br> - WT Weather -><br> - Sudoku World -><br> - Flash Memory -><br> - Skylite -></p>
+<hr>
+
+<br>
+
+<h3>Tech stack - main</h3>
 
 ###
 
-<div align="center">
-  <img height="220" src="https://avatars.githubusercontent.com/u/76244675?s=400&u=2d7f35231fa3b3afca81175f7ae23390a01ab75c&v=4"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="center">Tech stack - main</h3>
-
-###
-
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -93,11 +100,13 @@
 
 ###
 
-<h3 align="center">Have basic knowledge</h3>
+<br>
+
+<h3>Have basic knowledge</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=pug" height="50" alt="pug logo"  />
@@ -111,11 +120,13 @@
 
 ###
 
-<h3 align="center">Hosting providers</h3>
+<br>
+
+<h3>Hosting providers</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
@@ -125,11 +136,13 @@
 
 ###
 
-<h3 align="center">Going to learn in the future</h3>
+<br>
+
+<h3>Going to learn in the future</h3>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
@@ -141,35 +154,40 @@
 
 ###
 
-<h3 align="center">General stats</h3>
+<br>
+
+<hr>
+
+<br>
+
+<h3>General stats</h3>
+
+<br>
+
+###
+
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="210" align="left" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="210" align="right" alt="languages graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br>
+
+<br>
+
+<h3>Visitors count</h3>
+
+<br>
 
 ###
 
-<h3 align="center">Visitors count</h3>
-
-###
-
-<div align="center">
+<div>
   <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  />
 </div>
-
-###
-
-<h3 align="center">Contribution graph</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Martimex/Martimex/output/snake.svg" alt="Snake animation" />
 
 ###
