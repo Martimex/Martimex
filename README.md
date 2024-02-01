@@ -138,7 +138,7 @@
 
 <br>
 
-<h3>Tools to learn in the future</h3> Not there yet :)
+<h3>Tools to learn in the future</h3> (Wish I knew them)
 
 ###
 
@@ -187,7 +187,7 @@
 ###
 
 <div>
-  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  height="100" />
 </div>
 
 ###
