@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">✨ Would love to collab on some projects with other developers! If you would like to team up, feel free to contact me by e-mail.</p>
+<p align="left">✨ Would love to collab on some projects with other developers! If you would like to team up, feel free to contact me by e-mail - xtheoryofcode@gmail.com </p>
 
 ###
 
@@ -187,7 +187,7 @@
 ###
 
 <div>
-  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  height="75" />
+  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  height="70" />
 </div>
 
 ###
