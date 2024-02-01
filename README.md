@@ -69,33 +69,33 @@
 ###
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="50" alt="inkscape logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="60" alt="inkscape logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
 </div>
 
 ###
@@ -107,15 +107,15 @@
 ###
 
 <div>
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=pug" height="50" alt="pug logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=pug" height="60" alt="pug logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
 </div>
 
 ###
@@ -127,11 +127,11 @@
 ###
 
 <div>
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="60" alt="heroku logo"  />
 </div>
 
 ###
@@ -143,13 +143,13 @@
 ###
 
 <div>
-  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="nuxtjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
 </div>
 
 ###
