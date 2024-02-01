@@ -187,7 +187,7 @@
 ###
 
 <div>
-  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  height="100" />
+  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  height="75" />
 </div>
 
 ###
