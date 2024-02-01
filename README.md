@@ -1,54 +1,175 @@
-<h1 align="center">Hi 👋, I'm Martimex</h1>
-<h3 align="center">A JavaScript frontend developer from Poland</h3>
+<h1 align="center">Hello there 👋 I am Kamil</h1>
 
-- 🔭 I’m currently working on -> [Memory Flash 2.0 version](https://github.com/Martimex/memory-game/tree/update)
+###
 
-- ✨ Check out my new app -> [Sudoku World](https://sudokuworld.onrender.com)
+<h3 align="center">A JavaScript developer from Poland</h3>
 
-- 🌱 I’m currently learning -> **Three.js**
+###
 
-- 💬 Feel free to ask me about **anything :D**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="35" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+</div>
 
-- 📫 How to reach me ***coming soon***
+###
 
-- 🎯 2022 Main Goal -> **Contributing to open source**
+<br clear="both">
 
-- 💡 Open for collabs
+<h3 align="left">Some info about me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">📖 Passionate about both programming and  human laguages. Fluent in Polish (🇵🇱) and English (🇬🇧). Currently learning Spanish (🇪🇸).</p>
 
-<h4 align="left"> Programming languages: </h4>
+###
 
+<p align="left">✏️ Having fun writing various articles, solving complex problems and teaching others.</p>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
+###
 
+<p align="left">✨ Would love to collaborate on some projects with other developers! If you would like to collab with me, feel free to contact me by e-mail.</p>
 
-<h4 align="left"> Frontend development: </h4>
+###
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
+<p align="left">🎯 My goal for 2024 is to contribute  to some Open Source projects. Also aiming to further amp-up knowledge of  my main tech stack.</p>
 
-<h4 align="left"> Backend development: </h4>
+###
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
+<p align="left">🌱 Eager to learn more about Vue.js ecosystem, especially tools like Nuxt and Pinia.</p>
 
-<h4 align="left"> Backend as a Service: </h4>
+###
 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>
- 
-<h4 align="left"> Databases: </h4>
- 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
+<p align="left">🌐 Wordpress site is still under development...</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martimex&theme=dark" alt="martimex" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martimex&show_icons=true&theme=tokyonight&title_color=b880db&text_color=57a2c7&locale=en" alt="martimex" /></p>
+<p align="left">🚀 Check out my personal projects :<br><br> - WT Weather -><br> - Sudoku World -><br> - Flash Memory -><br> - Skylite -></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martimex&show_icons=true&theme=tokyonight&title_color=e28136&text_color=d6c943&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="martimex" /></p>
+###
+
+<div align="center">
+  <img height="220" src="https://avatars.githubusercontent.com/u/76244675?s=400&u=2d7f35231fa3b3afca81175f7ae23390a01ab75c&v=4"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Tech stack - main</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="50" alt="inkscape logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="center">Have basic knowledge</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=pug" height="50" alt="pug logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+</div>
+
+###
+
+<h3 align="center">Hosting providers</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
+</div>
+
+###
+
+<h3 align="center">Going to learn in the future</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="nuxtjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
+</div>
+
+###
+
+<h3 align="center">General stats</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">Visitors count</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Martimex/count.svg?"  />
+</div>
+
+###
+
+<h3 align="center">Contribution graph</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Martimex/Martimex/output/snake.svg" alt="Snake animation" />
+
+###
