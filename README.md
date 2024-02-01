@@ -53,10 +53,10 @@
 
 <p align="left">🚀 Check out my personal projects : </p>
 
-[WT Weather](https://wtweather.cyclic.app) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
-[Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
-[Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
-[Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
+* [WT Weather](https://wtweather.cyclic.app) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
+* [Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
+* [Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
+* [Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
 
 ###
 
@@ -64,7 +64,7 @@
 
 <br>
 
-<h3>Tech stack - main</h3>
+<h3>Tech stack - main</h3> (I am comfortable using these tools)
 
 ###
 
@@ -102,7 +102,7 @@
 
 <br>
 
-<h3>Have basic knowledge</h3>
+<h3>Tech stack - optional </h3> (I have a little experience with those)
 
 ###
 
@@ -122,7 +122,7 @@
 
 <br>
 
-<h3>Hosting providers</h3>
+<h3>BaaS / Hosting providers</h3> (Here I host my projects)
 
 ###
 
@@ -138,7 +138,7 @@
 
 <br>
 
-<h3>Going to learn in the future</h3>
+<h3>Tools to learn in the future</h3> Not there yet :)
 
 ###
 
@@ -168,8 +168,8 @@
 
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="210" align="left" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="210" align="right" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" align="left" height="150"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" align="left" height="150" alt="languages graph"  />
 </div>
 
 ###
