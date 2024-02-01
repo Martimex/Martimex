@@ -168,8 +168,8 @@
 
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" align="left" height="150"  alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" align="left" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Martimex&locale=en&mode=daily&theme=dracula&hide_border=false&width=450&border_radius=5" align="left" height="150"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martimex&locale=en&hide_title=false&langs_count=4&layout=compact&width=450&theme=dracula&hide_border=false" align="left" height="150" alt="languages graph"  />
 </div>
 
 ###
