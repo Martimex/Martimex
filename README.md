@@ -53,7 +53,7 @@
 
 <p align="left">🚀 Check out my personal projects : </p>
 
-* [WT Weather](https://wtweather.cyclic.app) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
+* [WT Weather](https://wtweather.glitch.me) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
 * [Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
 * [Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
 * [Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
