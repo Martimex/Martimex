@@ -57,6 +57,7 @@
 * [Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
 * [Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
 * [Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
+* [3PhotoLib](https://threephotolib.vercel.app) - a huge library of royalty-free images for your next project. **[Not finished yet]** <br> <br>
 
 ###
 
@@ -83,11 +84,15 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="60" alt="inkscape logo"  />
   <img width="20" />
@@ -114,8 +119,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
 </div>
 
 ###
@@ -146,8 +149,6 @@
   <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
 </div>
