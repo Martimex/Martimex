@@ -55,9 +55,9 @@
 
 * [WT Weather](https://wtweather.glitch.me) - a website, where you can check weather forecast for over 500 000 cities around the world.  <br> <br>
 * [Sudoku World](https://sudokuworld.onrender.com) - an app to play Sudoku puzzles, which are created real-time by the custom engine. <br> <br>
-* [Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. <br> <br>
+* [Flash Memory](https://flash-memory.vercel.app) - a unique Memory game project with authentication login and unique levels. **Please check [[Note 1-2]](https://github.com/Martimex/Flash-Memory/blob/main/README.md) before visiting the app webpage.** <br> <br>
 * [Skylite website](https://skylitesite.web.app) - a scroll-based website project for imaginary marketing company. <br> <br>
-* [3PhotoLib](https://threephotolib.vercel.app) - a huge library of royalty-free images for your next project. **[Not finished yet]** <br> <br>
+* [3PhotoLib](https://threephotolib.vercel.app) - a huge library of royalty-free images for your next project. **Please check [[Note 1-3]](https://github.com/Martimex/3PhotoLib/blob/main/README.md) before visiting the app webpage.** <br> <br>
 
 ###
 
